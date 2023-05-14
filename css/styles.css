@@ -196,7 +196,7 @@ img {
     max-width: 1440px;
     background-image: linear-gradient(rgb(46, 47, 66, 0.7), rgb(46, 47, 66, 0.7)), url(../images/Hero/img-name.jpg);
     background-repeat: no-repeat;
-    background-position: center;
+    /* background-position: center; */
     background-size: cover;
 }
 
@@ -472,21 +472,17 @@ img {
 
 
 
-.container-customers {
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-}
+.container-customers {}
 
 .customers-title {
-    font-family: 'Roboto', sans-serif;
-    font-style: Bold;
+    font-style: normal;
     font-size: 36px;
     line-height: 1.1;
     letter-spacing: 0.02em;
     color: #2E2F42;
 
     margin-bottom: 72px;
+    text-align: center;
 }
 
 .customers-list {
