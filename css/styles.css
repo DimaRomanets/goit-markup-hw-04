@@ -192,7 +192,7 @@ img {
     background-color: #2E2F42;
     padding-top: 188px;
     padding-bottom: 188px;
-    margin: auto;
+    margin: 0 auto;
 
     max-width: 1440px;
     background-image: linear-gradient(rgb(46, 47, 66, 0.7), rgb(46, 47, 66, 0.7)), url(../images/Hero/img-name.jpg);
